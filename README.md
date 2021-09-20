@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Summary  
 The Housing Inventory dataset is an attempt to adapt the county assessor tax parcel data for Utah’s most urban counties, to present additional, standardized information about the type of housing units, land that is associated with them, and related short-term and long-term trends.  
 
@@ -23,7 +22,7 @@ Residential parcel types are often differentiated in detail within the Assessor 
 - pud (mixed)
 - group quarters  
 
-The housing does <ins>not<ins> include the following parcel types in its summary:  
+The housing does <u>not<u> include the following parcel types in its summary:  
 - Nursing or retirement homes
 - Extended stay hotels
 - Student housing or dormitories  
@@ -32,23 +31,4 @@ The housing does <ins>not<ins> include the following parcel types in its summary
 For more information contact analytics@wfrc.org  
  
 Tags: Utah, Housing, Land Use, Parcels, Cadastre, Economy, Planning  
-=======
-# Housing-Unit-Inventory
-Create housing unit inventory for Utah counties using LIR Parcels and other miscellaneous boundary layers
-- organizes parcel attributes like total market value, building square footage, number of floors, etc.
-- groups propertys contained by common space, summarizing relevant attributes  
-
-Types:
-- single_family
-- multi_family
-
-Subtypes:
-- single_family (no hoa)
-- pud (single family w/ hoa)
-- duplex
-- apartment
-- condo
-- mixed
-- mobile_home_park
->>>>>>> 78fc913812218febd189b05fa0dc11fd4db3ba72
 
