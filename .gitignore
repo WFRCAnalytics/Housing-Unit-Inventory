@@ -1,4 +1,5 @@
 # Folders
-Outputs/wfrc_housing_unit_inventory*/
+Outputs/
+Current_Version/*.gdb
 .ipynb_checkpoints/
 .backups/

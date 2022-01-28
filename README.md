@@ -22,7 +22,7 @@ Residential parcel types are often differentiated in detail within the Assessor 
 - pud (mixed)
 - group quarters  
 
-The housing does <u>not<u> include the following parcel types in its summary:  
+The housing unit inventory does not include the following parcel types in its summary:  
 - Nursing or retirement homes
 - Extended stay hotels
 - Student housing or dormitories  
